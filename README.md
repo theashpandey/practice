@@ -1,6 +1,6 @@
 # Java Coding Problems
 
-This repository contains 100 basic Java coding problems organized by concept. Use this as a guide to practice daily and enhance your Java programming skills.
+This repository contains basic and advance Java & DSA coding problems organized by concept. Use this as a guide to practice daily and enhance your programming and problem solving skills using java.
 
 ---
 
