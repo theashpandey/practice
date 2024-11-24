@@ -1,4 +1,4 @@
-package com.practice;
+package com.practice.advance;
 
 public class Stack<T> {
 
