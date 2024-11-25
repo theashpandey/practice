@@ -31,8 +31,8 @@ This repository contains basic and advance Java & DSA coding problems organized 
 3. Write a program to find the square of a number.  
 4. Write a program to check if a number is positive, negative, or zero.  
 5. Write a program to find the largest of three numbers.  
-6. Check if a given year is a leap year.  
-7. Categorize a grade (A, B, C, etc.) based on percentage.  
+6. Check if a given year is a leap year.
+7. Find sum of digit.
 8. Determine if a person is eligible to vote (age >= 18).  
 9. Find whether a number is odd or even.  
 10. Calculate the factorial of a given number.  
